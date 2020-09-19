@@ -1,1 +1,1 @@
-# -react-project-jsdoc
+# react-project-jsdoc
